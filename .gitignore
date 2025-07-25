@@ -1,0 +1,4 @@
+.streamlit/secrets.toml
+# This file is used to store secrets for your Streamlit app.
+#add your gemini api key here
+ 
